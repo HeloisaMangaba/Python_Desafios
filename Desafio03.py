@@ -1,5 +1,5 @@
 ## Heloísa M Coletti
-# DESAFIO 03 - Leia dois números e mostre o resultado entre eles.
+# DESAFIO 03 Leia dois números e mostre o resultado entre eles.
 
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite um segundo número: '))
